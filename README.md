@@ -109,7 +109,7 @@ curl -I https://你的域名/data/app_key.php         # 403
 
 ## 开源协议
 
-MIT License，见 `LICENSE`。
+GNU Affero General Public License v3.0，见 `LICENSE`。
 
 ## 免责声明
 
